@@ -10,12 +10,15 @@
 
 ### :computer: Tecnologias
 
-* HTML
-* CSS
-* JavaScript
-* NodeJs
-* Webpack
-* Eslint
-* Babel
-  
-<img src="animais.gif">
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [NodeJs](https://nodejs.org/en)
+- [Webpack](https://webpack.js.org/)
+- [Eslint](https://eslint.org/)
+- [Babel](https://babeljs.io/)
+
+
+![animaisfantasticos](https://github.com/user-attachments/assets/0dcb3765-d58c-404c-9942-d56529b19eb9)
+
+<div align="center">Feito com 💜!</div>
