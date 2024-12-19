@@ -250,11 +250,12 @@ body{
 }
 
 [ data-anime="accordion"] dt::after{
-    content: ' ⮧' ;
+    margin-left: 10px;
+    content: '⬎' ;
 }
 
 [ data-anime="accordion"] dt.ativo::after{
-    content: ' ⮥' ;
+    content: '⬏' ;
 }
 
 [ data-anime="accordion"] dd.ativo{
